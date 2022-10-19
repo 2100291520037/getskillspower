@@ -1,0 +1,3 @@
+hellow friends 
+this is my first session in git...
+and i hope you friends are loving it
